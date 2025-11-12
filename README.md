@@ -21,6 +21,36 @@ The bank aims to analyze customer and transaction behavior across all issued cre
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGRlZTU3NzgtNmFhNC00ZGIwLWI1MGItODRmM2NmYmUwZmZmIiwidCI6IjgwNzkwOTIyLWJmY2EtNGE4OS1iYzJiLThhN2E5YzFkMDZiYSIsImMiOjZ9)
 
 ---
+## 🧰 Tools & Technologies Used
+
+| Purpose                     | Tool / Technology                |
+| --------------------------- | -------------------------------- |
+| Data Cleaning & Preparation | **Python (Pandas, NumPy)**       |
+| Exploratory Data Analysis   | **Jupyter Notebook**             |
+| Data Storage                | **MySQL**                        |
+| Data Visualization & BI     | **Microsoft Power BI**           |
+| DAX Measures                | **Data Modeling & KPI Creation** |
+| Version Control             | **Git / GitHub**                 |
+
+---
+
+
+### **Transactions Dataset**
+Contains credit card transaction records.  
+**Columns:**  
+`id, date, client_id, card_id, amount, use_chip, merchant_id, merchant_city, merchant_state, zip, mcc, errors`
+
+### **Users Dataset**
+Contains customer demographic and financial details.  
+**Columns:**  
+`id, current_age, retirement_age, birth_year, birth_month, gender, address, latitude, longitude, per_capita_income, yearly_income, total_debt, credit_score, num_credit_cards`
+
+### **Cards Dataset**
+Contains issued credit card details.  
+**Columns:**  
+`id, client_id, card_brand, card_type, card_number, expires, cvv, has_chip, num_cards_issued, credit_limit, acct_open_date, year_pin_last_changed, card_on_dark_web`
+
+---
 
 ### 📁 Data Modeling-
 <img width="1125" height="573" alt="Screenshot 2025-11-12 211831" src="https://github.com/user-attachments/assets/2aa940eb-a7ec-4ef0-83d5-d537db0ad982" />
