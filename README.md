@@ -17,6 +17,12 @@ The bank aims to analyze customer and transaction behavior across all issued cre
 #### 4. Card Performance Analysis
 - Compare transaction success rates and profitability across card brands and types (Visa vs. Mastercard, Platinum vs. Gold).
 
+---
+
+<img width="1236" height="750" alt="ChatGPT Image Nov 30, 2025, 02_06_25 PM" src="https://github.com/user-attachments/assets/2f7d5fb0-231c-4f3d-b10c-31ea5c5bf239" />
+
+---
+
 ### 🌐 Power BI Dashboard Link
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGRlZTU3NzgtNmFhNC00ZGIwLWI1MGItODRmM2NmYmUwZmZmIiwidCI6IjgwNzkwOTIyLWJmY2EtNGE4OS1iYzJiLThhN2E5YzFkMDZiYSIsImMiOjZ9)
 
